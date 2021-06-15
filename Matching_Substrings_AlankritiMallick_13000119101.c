@@ -1,3 +1,9 @@
+///PROGRAM BY 
+///NAME : ALANKRITI MALLICK 
+///DEPT : CSE 
+///SEC : B 
+///ROLL NO. : 13000119101
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
